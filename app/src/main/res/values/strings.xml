@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FiLoad</string>
+    <string-array name="arr.time">
+        <item>Recent</item>
+        <item>A week ago</item>
+        <item>A month ago</item>
+        <item>A year ago</item>
+    </string-array>
+
+    <string-array name="arr.folders">
+        <item>Documents</item>
+        <item>Downloads</item>
+        <item>Movies</item>
+        <item>Music</item>
+        <item>Assignments</item>
+        <item>Work</item>
+        <item>Projects</item>
+        <item>E-Books</item>
+    </string-array>
+</resources>
